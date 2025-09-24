@@ -17,7 +17,7 @@ Outside of school I love going outside and adventuring, often climbing, whenever
   * Ubuntu
   * Mint
  
-## Certifications
+### Certifications
 * CSWP(Solidwords Professional Certification)
 * CSWA-AM(Solidworks Additive Manufacturing Associate)
 
