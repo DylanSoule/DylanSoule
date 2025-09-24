@@ -7,4 +7,16 @@ Outside of school I love going outside and adventuring, often climbing, whenever
 
 ## What I know
 
-###
+### Languages
+* Python
+* C++
+
+### Computer Systems
+* Windows
+* Linux
+  * Ubuntu
+  * Mint
+
+## Projects
+* [Life Decision Simulator](https://github.com/WTCSC/life-decision-simulator-DylanSoule)
+* [Pet Rock Simulator](https://github.com/WTCSC/pet-rock-simulator-DylanSoule)
