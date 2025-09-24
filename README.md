@@ -16,6 +16,10 @@ Outside of school I love going outside and adventuring, often climbing, whenever
 * Linux
   * Ubuntu
   * Mint
+ 
+## Certifications
+* CSWP(Solidwords Professional Certification)
+* CSWA-AM(Solidworks Additive Manufacturing Associate)
 
 ## Projects
 * [Life Decision Simulator](https://github.com/WTCSC/life-decision-simulator-DylanSoule)
